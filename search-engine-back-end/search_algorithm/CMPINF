@@ -1,0 +1,60 @@
+CMPINF0001:SCI FIRST-YEAR SEMINAR:The first-year seminar will provide students with an introduction to SCI and the University of Pittsburgh. The format of this course will be mixed between large group informational sessions, and small group discussions and activities. The small group sections will be led by members of our advising staff, undergraduate peer mentors, and/or faculty. The course will be split approximately evenly between large-group informational sessions and small-group discussions.
+CMPINF0010:BIG IDEAS IN COMPUTING AND INFORMATION:Computing and information systems underlie nearly every facet of life in today's highly-networked societies. Accordingly, there are many paths through the degree programs offered by the School of Computing and Information, each focusing on different aspects of the theories, practices, and applications of computing and information. This course will introduce students to a variety of core principles and important themes that cross-cut this array of computing- and information-oriented disciplines, as well as explore the types of work that individuals educated in these disciplines engage in.
+CMPINF0020:Sab Exchange: Communication:
+CMPINF0021:Sab Exchange: Diversity:
+CMPINF0022:Sab Exchange: Ethical/pol:
+CMPINF0023:Sab Exchange: Free Elective:
+CMPINF0024:Sab Exchange: Global & Cr. Cul:
+CMPINF0025:Sab Exchange: Humanistic:
+CMPINF0026:Sab Exchange: Math:
+CMPINF0027:Sab Exchange: Project-based:
+CMPINF0028:Sab Exchange: Research:
+CMPINF0029:Sab Exchange: Science Nonseq.:
+CMPINF0030:Sab Exchange: Science Seq:
+CMPINF0031:Sab Exchange: Service Learning:
+CMPINF0032:Sab Exchange: Soc/behav:
+CMPINF0033:Sab Exchange: Stats:
+CMPINF0034:Sab Exchange: Tech/bus/res Wri:
+CMPINF0040:Sab Prp: Communication:
+CMPINF0041:Sab Prp: Diversity:
+CMPINF0042:Sab Prp: Ethical/pol:
+CMPINF0043:Sab Prp: Free Elective:
+CMPINF0044:Sab Prp: Global & Cr. Cult:
+CMPINF0045:Sab Prp: Humanistic:
+CMPINF0046:Sab Prp: Math:
+CMPINF0047:Sab Prp: Project-based:
+CMPINF0048:Sab Prp: Research:
+CMPINF0049:Sab Prp: Science Nonseq.:
+CMPINF0050:Sab Prp: Science Seq:
+CMPINF0051:Sab Prp: Service Learning:
+CMPINF0052:Sab Prp: Soc/behav:
+CMPINF0053:Sab Prp: Stats:
+CMPINF0054:Sab Prp: Tech/bus/res Writ:
+CMPINF0060:Study Abroad: Communication:
+CMPINF0061:Study Abroad: Diversity:
+CMPINF0062:Study Abroad: Ethical/pol:
+CMPINF0063:Study Abroad: Free Elective:
+CMPINF0064:Study Abroad: Global & Cr. Cul:
+CMPINF0065:Study Abroad: Humanistic:
+CMPINF0066:Study Abroad: Math:
+CMPINF0067:Study Abroad: Project-based:
+CMPINF0068:Study Abroad: Research:
+CMPINF0069:Study Abroad: Science Nonseq.:
+CMPINF0070:STUDY ABROAD: SCIENCE SEQ:
+CMPINF0071:Study Abroad: Service Learning:
+CMPINF0072:Study Abroad: Soc/behav:
+CMPINF0073:Study Abroad: Stats:
+CMPINF0074:Study Abroad: Tech/bus/res Wri:
+CMPINF0080:Intl Cybersecurity And Privacy:
+CMPINF0401:INTERMEDIATE PROGRAMMING (replacing INFSCI 0017 and CS 0401, effective April 30, 2021):This is an intermediate programming course that focuses on programming via an object-oriented paradigm. Students entering CMPINF 0401 are expected to have some previous concepts and then focus on object-oriented programming, including classes, encapsulation and abstraction, inheritance, polymorphism and interfaces. Some introductory data structures and algorithms will also be covered in this course.This class is a programming-intensive course, and students will be expected to complete several non-trivial programming projects throughout the term.
+CMPINF0999:SPECIAL TOPICS IN COMPUTING AND INFORMATION:Various topics in computing and information will be covered.
+CMPINF1061:FOUNDATIONS OF DATA SCIENCE:
+CMPINF1201:DIGITAL NARRATIVE AND INTERACTIVE DESIGN:How are computational artifacts currently designed, and how can they be designed differently? What stories can be told by collaborating with computers? What stories can't be told? This project-based course will enable students to engage with and create computational narratives and interactive projects with data, hardware and algorithms. Each collaboratively taught iteration of the course will include 3-4 of these units, such as: fabrication, interactive hardware, computational narrative, interactive data, and prototyping. Students will consider what it means to compose with computers for human audiences, and with humans for computer audiences. Designed for Digital Narrative and Interactive Design (DNID) majors to take midway through the major, it will help students consolidate the interdisciplinary knowledge they have obtained in their prerequisite courses, introduce them to examples of interdisciplinary work that will inform their later capstone projects, and give them practice in working on collaborative projects that span the humanities and information/computing fields.
+CMPINF1205:COMPARATIVE DIGITAL PRIVACIES:This course will offer a broad survey of significant issues relating to privacy in the digital age. It investigates privacy in the digital world from cultural, social, communication, and policy perspectives. Taking a comparative approach, privacy related to digital communication is compared across several global regions in an attempt to understand the distinctiveness of privacy in those regions. The course will first introduce students to the concepts of privacy, the digital age, and the relation between privacy protections and the state. Students will understand the significance of the issue of digital privacies and why we need to employ a comparative approach to examine it.  The course will then look at selected case studies of digital privacy in several global regions, including the United States, Canada, Europe, China, and South East Asia. Issues related to digital privacies such as Internet laws and policies, media regulations and public interest, data protection, state control, and commercial interests in the digital age, surveillance, copyright, and privacy advocates will also be included.
+CMPINF1981:PROJECT STUDIO:This course is designed as a practicum for the joint degree programs offered by the School of Computing and Information in conjunction with other units on campus. Students will apply skills learned during their studies in SCI to problems existing at the confluence of computing, information, and other disciplinary studies. This course is meant to help satisfy the Capstone requirement for joint programs allowing team-based project Capstone options.
+CMPINF1999:ADVANCED SPECIAL TOPICS IN COMPUTING AND INFORMATION:Various advanced topics in computing and information will be covered.
+CMPINF2100:DATA-CENTRIC COMPUTING:This course will provide an introduction to programming, data processing, and data mining, and applied machine learning using Python for highly motivated students with little or no prior experience in programming. The course will focus on learning the basics of Python programming language in the context of working with data, planning and organizing programs, commonly-used algorithms, data management, data cleaning, basic machine learning, data mining, and fundamentals of computational modeling.
+CMPINF2110:MANAGING, QUERYING, AND PRESERVING DATA:This course introduces students to the practical methodologies of data management, storage, and querying in the context of relational, document, and graph database management systems. This course covers fundamental concepts of data organization and retrieval, including the relational model, structured query language (SQL), graph/network concepts, and Cypher.   In addition to building skills and understandings for managing data in a database system, this course will examine strategies and important concepts for continued access and preservation of data.  This course considers the technical infrastructure for storing, publishing, discovering and preserving research data. It will address the importance of data documentation in data science, disciplinary metadata standards, file formats that support long-term preservation of data, and strategies for sharing data.
+CMPINF2120:APPLIED PREDICTIVE MODELING:The ability to collect, store and process large amounts of detailed data in a variety of fields has led to a surge in the use of data in various decision making tasks, ranging from governmental policy making to drafting players in sports. Data literacy is thus important and in this first introductory course we will focus on shifting the traditional mode of deterministic (yes/no) thinking to probabilistic thinking. In this course, we will review concepts from applied probability and statistics and explore how they can be used in building a data-driven infrastructure with applications ranging from understanding a variety of everyday phenomena (e.g., descriptive modeling) to making decisions based on data (e.g., predictive modeling). In particular, we will focus on the principles and best practices in dealing with data, including understanding (a) the bias-variance tradeoff, (b) how to avoid overfitting, (c) how to choose the most appropriate model for your data and (d) how to evaluate your model's performance.   While the main focus of the course is on supervised learning, we will also introduce unsupervised learning and in particular the problem of clustering. We will also explore the concept of Monte Carlo simulations and resampling, and how they can be used to make predictions for systems that are too complicated to be solved in closed form. We will also provide an overview of analytical methods for specialized form of data including time series and relational data.
+CMPINF2130:THE ART OF DATA VISUALIZATION:Visualization is a language of art to discover, understand, and communicate meanings. This course introduces how to speak in the visual style in the era of big data by programming on the elements of arts: lines, forms, and colors. This course is designed to break the boundaries between art, science, and engineering and teach creative coding to students of all kinds of backgrounds.
+CMPINF2999:SPECIAL TOPICS:Various advanced topics in computing and information will be covered.
