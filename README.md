@@ -1,5 +1,5 @@
 # IR_project_2021fall
-course retrieval system
+SCI course retrieval system
 
 ### home page 
 <img width="600" alt="portfolio_view" src="https://user-images.githubusercontent.com/39432361/147499889-8cf99346-3586-495a-84bb-b185df83ef6c.png">
