@@ -1,4 +1,4 @@
-# IR_project_2021fall
+# IR_2021fall
 SCI course retrieval system
 ------
 ### home page 
